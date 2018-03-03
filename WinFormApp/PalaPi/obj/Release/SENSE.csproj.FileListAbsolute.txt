@@ -1,0 +1,43 @@
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\bin\Release\PalaPi.exe.config
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\bin\Release\PalaPi.exe
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\bin\Release\PalaPi.pdb
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\bin\Release\InTheHand.Net.Personal.dll
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\bin\Release\MjpegProcessor.dll
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\bin\Release\ZedGraph.dll
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\bin\Release\InTheHand.Net.Personal.xml
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\bin\Release\ZedGraph.xml
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\obj\Release\SENSE.Bluetooth_Setting.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\obj\Release\SENSE._Form_Data.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\obj\Release\SENSE._Form_Debug.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\obj\Release\SENSE.Properties.Resources.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\obj\Release\SENSE.csproj.GenerateResource.Cache
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\obj\Release\PalaPi.exe
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\obj\Release\PalaPi.pdb
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\obj\Release\SENSE._Form_SENSE.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV1\Final\PC\PalaPi\obj\Release\SENSE.csprojResolveAssemblyReference.cache
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\InTheHand.Net.Personal.dll
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\MjpegProcessor.dll
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\ZedGraph.dll
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\InTheHand.Net.Personal.xml
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\ZedGraph.xml
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\SENSE.csprojResolveAssemblyReference.cache
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\SENSE.Properties.Resources.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\SENSE.csproj.GenerateResource.Cache
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\SENSE._Form_Graph.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\SENSE._Form_Parameter.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\SENSE._Form_Visualize.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final - Copy\PC\PalaPi\bin\Release\PalaPi.exe.config
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final - Copy\PC\PalaPi\obj\Release\PalaPi.exe
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final - Copy\PC\PalaPi\obj\Release\PalaPi.pdb
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\SENSE._Form_Sense.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\The Sense.exe.config
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\The Sense.exe
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\The Sense.pdb
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\The Sense.exe
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\The Sense.pdb
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\dje-NE\The Sense.resources.dll
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\bin\Release\en-US\The Sense.resources.dll
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\SENSE._Form_Sense.dje-NE.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\SENSE._Form_Sense.en-US.resources
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\dje-NE\The Sense.resources.dll
+D:\_Clouds_\Dropbox\_ARM_\STM32F4xx\SenseV2\Final\PC\PalaPi\obj\Release\en-US\The Sense.resources.dll

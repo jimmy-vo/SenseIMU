@@ -1,0 +1,5 @@
+-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork -I..\inc -I..\_Code_ -I..\_Code_\DEV -I..\_Code_\IMU -I..\_Code_\Tools -I..\_Code_\EEPROM -I..\_Code_\UltraSonic -I..\_Code_\Motor -I..\_Code_\Servo -I..\_Code_\Power_Mornitor -I..\_Code_\Timing -I..\_Code_\Bluetooth 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\ST\STM32F4xx 
+-DUSE_STDPERIPH_DRIVER -DSTM32F4XX -o "bluetooth.o" --omf_browse "bluetooth.crf" --depend "bluetooth.d" "..\_Code_\Bluetooth\Bluetooth.c"

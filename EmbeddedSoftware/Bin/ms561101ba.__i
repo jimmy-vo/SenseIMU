@@ -1,0 +1,5 @@
+-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork -I..\inc -I..\_Code_ -I..\_Code_\DEV -I..\_Code_\Tools -I..\_Code_\Timing -I..\_Code_\Commnunication -I..\_Code_\Control -I..\_Code_\Sensor -I..\_Code_\Storage -I..\_Code_\User 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\ST\STM32F4xx 
+-DUSE_STDPERIPH_DRIVER -DSTM32F4XX -o "ms561101ba.o" --omf_browse "ms561101ba.crf" --depend "ms561101ba.d" "..\_Code_\Sensor\MS561101BA.c"

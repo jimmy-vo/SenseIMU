@@ -1,0 +1,54 @@
+*** Creating Trace Output File 'BalaPi_stm32f4.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"testonlcd.o"'
+### List of Objects: adding '"user_interface.o"'
+### List of Objects: adding '"voltage_fb.o"'
+### List of Objects: adding '"hmc5883l.o"'
+### List of Objects: adding '"imu.o"'
+### List of Objects: adding '"mpu6050.o"'
+### List of Objects: adding '"sona.o"'
+### List of Objects: adding '"tool_dataprocessing.o"'
+### List of Objects: adding '"eeprom.o"'
+### List of Objects: adding '"encoder.o"'
+### List of Objects: adding '"motor.o"'
+### List of Objects: adding '"servo.o"'
+### List of Objects: adding '"speed_pid.o"'
+### List of Objects: adding '"systick.o"'
+### List of Objects: adding '"timing_manage.o"'
+### List of Objects: adding '"dev_digital.o"'
+### List of Objects: adding '"dev_lcd.o"'
+### List of Objects: adding '"dev_i2c.o"'
+### List of Objects: adding '"dev_usart.o"'
+### List of Objects: adding '"dev_timer.o"'
+### List of Objects: adding '"misc.o"'
+### List of Objects: adding '"stm32f4xx_adc.o"'
+### List of Objects: adding '"stm32f4xx_dma.o"'
+### List of Objects: adding '"stm32f4xx_exti.o"'
+### List of Objects: adding '"stm32f4xx_gpio.o"'
+### List of Objects: adding '"stm32f4xx_i2c.o"'
+### List of Objects: adding '"stm32f4xx_rcc.o"'
+### List of Objects: adding '"stm32f4xx_tim.o"'
+### List of Objects: adding '"stm32f4xx_usart.o"'
+### List of Objects: adding '"system_stm32f4xx.o"'
+### List of Objects: adding '"stm32f4xx_syscfg.o"'
+### List of Objects: adding '"startup_stm32f4xx.o"'
+### List of Objects: adding '"serial_link.o"'
+### List of Objects: adding '"complementary filter.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4 "main.o" "testonlcd.o" "user_interface.o" "voltage_fb.o" "hmc5883l.o" "imu.o" "mpu6050.o" "sona.o" "tool_dataprocessing.o" "eeprom.o" "encoder.o" "motor.o" "servo.o" "speed_pid.o" "systick.o" "timing_manage.o" "dev_digital.o" "dev_lcd.o" "dev_i2c.o" "dev_usart.o" "dev_timer.o" "misc.o" "stm32f4xx_adc.o" "stm32f4xx_dma.o" "stm32f4xx_exti.o" "stm32f4xx_gpio.o" "stm32f4xx_i2c.o" "stm32f4xx_rcc.o" "stm32f4xx_tim.o" "stm32f4xx_usart.o" "system_stm32f4xx.o" "stm32f4xx_syscfg.o" "startup_stm32f4xx.o" "serial_link.o" "complementary filter.o" 
+--library_type=microlib --strict --scatter "BalaPi_stm32f4.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\BalaPi_stm32f4.map" -o BalaPi_stm32f4.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'BalaPi_stm32f4.axf'
+### ADS-LD Command File: 'BalaPi_stm32f4.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'BalaPi_stm32f4.lnp', Handle=0x0000057C
+### Writing '.lnp' file
+### ADS-LD Command file 'BalaPi_stm32f4.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
