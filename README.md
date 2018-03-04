@@ -1,6 +1,6 @@
 
 # SenseIMU
-Control a mouse by human gesture via Bluetooth - A demonstration of Extended Kalman Filter and other different optimization and estimation approaches.
+Control a mouse by human gesture via Bluetooth - A demonstration of Kalman Filter and other different optimization and estimation approaches.
 
 ## Input
 * Accelerometer raw data
@@ -16,7 +16,13 @@ Control a mouse by human gesture via Bluetooth - A demonstration of Extended Kal
 ## Functionality
 * Bluetooth Connection
 * Data plotting, 3D rendering
-* Switching between different algorithms
+* Switching between different algorithms:
+  - Tilt-compensation Method  
+  - Gauss Newton Method 
+  - AHRS
+  - Quaternion based – gyro bias – EKF 
+  - Quaternion based – gyro rate – EKF
+  - DCM based KF 
 
 ## Screenshot
 
